@@ -1,0 +1,28 @@
+::-webkit-scrollbar{
+  display: none;
+}
+
+.fa-plus{
+  color: green;
+  margin: 5px;
+}
+.fa-minus{
+  color: red;
+  margin: 5px;
+
+}
+.fa-trash-can{
+  color: rgb(14, 13, 13);
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust as needed */
+}
+
+.loader {
+  height: 200px;
+  width: 200px;
+}
+

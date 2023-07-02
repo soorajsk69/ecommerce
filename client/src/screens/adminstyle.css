@@ -1,0 +1,43 @@
+.admin-panel {
+    animation-name: slideIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  .settings-icon {
+    display: inline-block;
+    animation: rotate 2s linear infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  .admin-panel {
+    overflow-x: hidden;
+  }
+  
+  .admin-container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-top:60px;
+  }
+.hed{
+  margin-top: 70px;
+}
