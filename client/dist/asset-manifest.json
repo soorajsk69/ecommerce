@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1db1f61.css",
+    "main.js": "/static/js/main.86c1c96f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/zulfashion2.png": "/static/media/zulfashion2.570fb285aa3e2f0585f4.png",
+    "static/media/zulfashion3.png": "/static/media/zulfashion3.3f388cf5b1b5e1f08ff1.png",
+    "static/media/background.png": "/static/media/background.c6f486b1cc731b4fd448.png",
+    "static/media/zul3.webp": "/static/media/zul3.009046a07bcd1a069c06.webp",
+    "index.html": "/index.html",
+    "main.d1db1f61.css.map": "/static/css/main.d1db1f61.css.map",
+    "main.86c1c96f.js.map": "/static/js/main.86c1c96f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1db1f61.css",
+    "static/js/main.86c1c96f.js"
+  ]
+}
